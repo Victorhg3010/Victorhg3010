@@ -17,10 +17,10 @@
 ### ✉️ Entre em contato!
 
 <p>
-<a href="https://www.linkedin.com/in/[SeuLinkedIn]" target="_blank">
+<a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/victor-hugo-a57201206/]" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:victorhugocarneiro3010@gmail.com" target="_blank">
+<a href="mailto:victorhugocarneiro30@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
